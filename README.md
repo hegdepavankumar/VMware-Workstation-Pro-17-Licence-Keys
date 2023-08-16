@@ -25,4 +25,6 @@ Enjoy your VMs!
 
 **EDIT: HOOOLY, 20 STARS? TYSM! My first gist of github! + Changed "Pro" to "PRO" **
 
-**EDIT 2: wow.. 200+ stars.. wtf.. also, i added more keys and MORE KEYS: gist 2: https://gist.github.com/
+**EDIT 2: wow.. 200+ stars.. wtf.. also, i added more keys and MORE KEYS: gist 2: https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key/blob/main/VMware%20Workstation%20Pro%2017%20keys
+
+
