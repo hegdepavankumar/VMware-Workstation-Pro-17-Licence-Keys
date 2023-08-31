@@ -9,7 +9,11 @@ PLEASE, DON'T COPY THIS. IF YOU FORK IT, DON'T EDIT IT.
 *No virus
 *No spam just license key
 --checked <br>
-MC60H-DWHD5-H80U9-6V85M-8280D < worked for me!
+<br>
+
+MC60H-DWHD5-H80U9-6V85M-8280D 
+
+<br>< worked for me!
 --unchecked <br>
 <br>
 <br>
@@ -31,8 +35,12 @@ Volume keys. <br>
 Use only if you are a personal user. I'm NOT responsible for what you do with it. <br>
 Enjoy your VMs!
 
-**EDIT: HOOOLY, 20 STARS? TYSM! My first gist of GitHub! + Changed "Pro" to "PRO" ** <br>
 
-**EDIT 2: Wow.. 200+ stars.. wtf.. also, I added more keys and MORE KEYS: <br> gist 2: https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key/blob/main/VMware%20Workstation%20Pro%2017%20keys
+!!<br>
+
+Note:
+<br>
+
+also, I added more keys and MORE KEYS: <br> gist 2: https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key/blob/main/VMware%20Workstation%20Pro%2017%20keys
 
 
