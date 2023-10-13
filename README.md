@@ -1,4 +1,10 @@
 # VMware-Workstation-Pro-17-Licence-Key
+<hr>
+
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key.svg?cache=remove)
 
 
 Install VMWare Workstation PRO 17 (Read it right. PRO!)
