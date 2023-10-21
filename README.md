@@ -11,42 +11,104 @@ Install VMWare Workstation PRO 17 (Read it right. PRO!)
 ---
 This gist can get off at any time.
 PLEASE, DON'T COPY THIS. IF YOU FORK IT, DON'T EDIT IT.
-*If you have a problem comment and people will try to help you!
-*No virus
-*No spam just license key
---checked <br>
+* If you have a problem comment and people will try to help you!
+* No virus
+* No spam just license key
+* Corporate Professional also using this - Dark Truth😎
+
+- Fell free to use and share with corporate Friends and Teams as well......
 <br>
 
-MC60H-DWHD5-H80U9-6V85M-8280D 
+ ## Recently added Keys...
 
-<br>< worked for me!
---unchecked <br>
-<br>
-<br>
+<hr>
 
-<br>
-4A4RR-813DK-M81A9-4U35H-06KND <br>
-<br>
-NZ4RR-FTK5H-H81C1-Q30QH-1V2LA <br>
-<br>
-JU090-6039P-08409-8J0QH-2YR7F <br>
-<br>
-4Y09U-AJK97-089Z0-A3054-83KLA <br>
-<br>
-4C21U-2KK9Q-M8130-4V2QH-CF810 <br>
-<br>
-<br>
-Keys found by FHW** and Lai **** <br>
-Volume keys. <br>
+| Number | Keys | Availability |
+|:------:|------------|:---------:|
+| 1 | MC60H-DWHD5-H80U9-6V85M-8280D | Active
+| 2 | 4A4RR-813DK-M81A9-4U35H-06KND | Active
+| 3 | NZ4RR-FTK5H-H81C1-Q30QH-1V2LA | Active
+| 4 | JU090-6039P-08409-8J0QH-2YR7F | Active
+| 5 | 4Y09U-AJK97-089Z0-A3054-83KLA | Active
+| 6 | 4C21U-2KK9Q-M8130-4V2QH-CF810 | Active
+| 7 | HY45K-8KK96-MJ8E0-0UCQ4-0UH72 | Active
+| 8 | JC0D8-F93E4-HJ9Q9-088N6-96A7F | Active
+| 9 | NG0RK-2DK9L-HJDF8-1LAXP-1ARQ0 | Active
+| 10 | 0U2J0-2E19P-HJEX1-132Q2-8AKK6 | Active
+
+
+<hr>
+
+## Note
+
 Use only if you are a personal user. I'm NOT responsible for what you do with it. <br>
 Enjoy your VMs!
 
 
 !!<br>
 
-Note:
 <br>
 
-also, I added more keys and MORE KEYS: <br> gist 2: https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key/blob/main/VMware%20Workstation%20Pro%2017%20keys
+also, I added more keys and MORE KEYS: 
+<br> 
+<hr>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+<div align="center">
+
+<div align="center">
+  
+Bonus Free Active Keys:  [If you want more click here](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key/blob/main/VMware%20Workstation%20Pro%2017%20keys)
+<div/>
+  
+<hr>
 
 
+## Your Contribution
+
+We welcome contributions! Follow these steps to contribute:
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [License](#license)
+
+
+* Fork the repository
+* Create a new branch: git checkout -b feature/your-feature
+* Make your changes and commit them: git commit -m 'Add some feature'
+* Push to the branch: git push origin feature/your-feature
+* Open a pull request
+* Please make sure to update tests as appropriate and adhere to the code of conduct.
+
+
+## Contact
+
+Feel free to reach out to us if you have any questions or suggestions.
+
+Email: [here](puhegde01@gmail.com) <br>
+Linkedin: [here](https://www.linkedin.com/in/hegdepavankumar) <br>
+GitHub: [here](https://github.com/hegdepavankumar) <br>
+
+
+## Creator [🔝](# VMware-Workstation-Pro-17-Licence-Key)
+
+(https://github.com/hegdepavankumar). This Project is Created by :-
+
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+
+
+<br>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<br>
+
+
+ <!-- Support Me --> 
+
+ 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
