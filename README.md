@@ -66,24 +66,8 @@ also, I added more keys and MORE KEYS:
 <hr>
 
 <div align="left">
-
-## Your Contribution
-
-We welcome contributions! Follow these steps to contribute:
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [License](#license)
-
-
-* Fork the repository
-* Create a new branch: git checkout -b feature/your-feature
-* Make your changes and commit them: git commit -m 'Add some feature'
-* Push to the branch: git push origin feature/your-feature
-* Open a pull request
-* Please make sure to update tests as appropriate and adhere to the code of conduct.
+ 
+<br>
 
 
 ## Contact
