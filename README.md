@@ -55,10 +55,11 @@ also, I added more keys and MORE KEYS:
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
-<br><br>
-  
 
-  [Bonus Free Active Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key/blob/main/VMware%20Workstation%20Pro%2017%20keys)
+<br>
+<br>
+  
+[Bonus Free Active Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key/blob/main/VMware%20Workstation%20Pro%2017%20keys)
   
  
 <div align="center"/>
@@ -72,7 +73,7 @@ also, I added more keys and MORE KEYS:
 
 ## Contact
 
-Feel free to reach out to us if you have any questions or suggestions.
+Feel free to contact me if you have any questions or suggestions.
 
 Email: [here](mailto:puhegde01@gmail.com) <br>
 Linkedin: [here](https://www.linkedin.com/in/hegdepavankumar) <br>
@@ -81,7 +82,7 @@ GitHub: [here](https://github.com/hegdepavankumar) <br>
 
 ## Creator [🔝](# VMware-Workstation-Pro-17-Licence-Key)
 
-(https://github.com/hegdepavankumar). This Project is Created by :-
+(https://github.com/hegdepavankumar). This Project is Created by:-
 
 | [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
