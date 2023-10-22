@@ -74,7 +74,7 @@ also, I added more keys and MORE KEYS:
 
 Feel free to reach out to us if you have any questions or suggestions.
 
-Email: [here](puhegde01@gmail.com) <br>
+Email: [here](mailto:puhegde01@gmail.com) <br>
 Linkedin: [here](https://www.linkedin.com/in/hegdepavankumar) <br>
 GitHub: [here](https://github.com/hegdepavankumar) <br>
 
