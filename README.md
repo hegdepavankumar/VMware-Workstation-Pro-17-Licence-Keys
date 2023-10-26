@@ -77,7 +77,6 @@ Feel free to contact me if you have any questions or suggestions.
 
 Email: [here](mailto:puhegde01@gmail.com) <br>
 Linkedin: [here](https://www.linkedin.com/in/hegdepavankumar) <br>
-GitHub: [here](https://github.com/hegdepavankumar) <br>
 
 
 ## Creator [🔝](# VMware-Workstation-Pro-17-Licence-Key)
