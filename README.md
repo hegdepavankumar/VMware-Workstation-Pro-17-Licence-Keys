@@ -84,7 +84,7 @@ Use the links below to start your free, fully functional 30-day trial, no regist
 ### Need Help
 
 we are always happy to help you...
-Steps to Follow: [click here]()
+Steps to Follow: [click here](Installation-Steps.md)
 
 <br>
 
