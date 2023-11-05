@@ -98,7 +98,7 @@ Linkedin: [here](https://www.linkedin.com/in/hegdepavankumar) <br>
 
 ## Creator [🔝](# VMware-Workstation-Pro-17-Licence-Key)
 
-(https://github.com/hegdepavankumar). This Project is Created by:-
+(https://github.com/hegdepavankumar). Created by:-
 
 | [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
