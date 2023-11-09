@@ -18,8 +18,10 @@ PLEASE, DON'T COPY THIS. IF YOU FORK IT, DON'T EDIT IT.
 - No spam just license key 🔐
 - Corporate Professional also using this - Dark Truth😎
 - Feel free to use and share with corporate Friends and Teams as well......
-- Even this keys are works below 17 or any further versions ....🎊✨
+- Even these keys are works below 17 or any further versions ....🎊✨
+- 🌟 Hey there! Mind sprinkling some stars on my repo? It's like giving it a digital high-five! 🚀
 - Certainly! How about this: "If you've found our work helpful, I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us improve. Thank you!"
+
 <br>
 
  ## Recently added Keys...
@@ -114,6 +116,6 @@ Linkedin: [here](https://www.linkedin.com/in/hegdepavankumar) <br>
  <!-- Support Me --> 
 
  
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
