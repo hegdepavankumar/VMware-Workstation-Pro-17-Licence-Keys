@@ -1,10 +1,10 @@
 # VMware-Workstation-Pro-17-Licence-Key
 <hr>
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key.svg?cache=remove)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys.svg?cache=remove)
 
 
 Free VMware Workstation Pro 17 full license keys. Collected and sorted out hundreds of universal License Keys for all major versions of VMware Workstation Pro 17. x versions.
@@ -61,7 +61,7 @@ also, I added more keys and MORE KEYS:
 <br>
 <br>
   
-[Bonus Free Active Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key/blob/main/VMware%20Workstation%20Pro%2017%20keys)
+[Bonus Free Active Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/blob/main/VMware%20Workstation%20Pro%2017%20keys)
   
  
 <div align="center"/>
