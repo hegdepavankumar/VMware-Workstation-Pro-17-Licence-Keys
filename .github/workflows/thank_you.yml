@@ -1,4 +1,5 @@
-name: Thank You on Star
+
+name: Thank You!!
 
 on:
   watch:
@@ -7,22 +8,13 @@ on:
 jobs:
   thank:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Thank the user
-      run: |
-        username=hegdepavankumar
-        repo=VMware-Workstation-Pro-17-Licence-Keys
-        issue_number=1
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-        api_url="https://api.github.com/repos/${username}/${repo}/issues/${issue_number}/comments"
-        message="Thank you, @${{ github.actor }} 🌟! We appreciate your support."
-
-        response=$(curl -X POST -s -H "Authorization: Bearer $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3+json" -d "{\"body\":\"$message\"}" $api_url)
-
-        if [[ $(echo $response | jq -r '.id') != null ]]; then
-          echo "Thank-you message posted successfully!"
-        else
-          echo "Error posting thank-you message. Response: $response"
-          exit 1
-        fi
-
+      - name: Thank developers
+        run: |
+          for user in $(curl -s https://api.github.com/repos/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/stargazers | jq -r .[].login); do
+            message="Thank you, @$user, for starring the repo! 🌟 We appreciate your support."
+            echo "$message"
