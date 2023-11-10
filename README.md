@@ -1,9 +1,9 @@
 # VMware-Workstation-Pro-17-Licence-Keys
 <hr>
 
-![GitHub](https://img.shields.io/github/license/imhegde/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key.svg?cache=remove)
 
 
@@ -65,7 +65,7 @@ also, I added more keys and MORE KEYS:
 <br>
 <br>
   
-[Bonus Free Active Keys](https://github.com/imhegde/VMware-Workstation-Pro-17-Licence-Keys/blob/main/VMware%20Workstation%20Pro%2017%20keys)
+[Bonus Free Active Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/blob/main/VMware%20Workstation%20Pro%2017%20keys)
   
  
 <div align="center"/>
@@ -105,9 +105,9 @@ Linkedin: [here](https://www.linkedin.com/in/hegdepavankumar) <br>
 
 ## Creator [🔝](# VMware-Workstation-Pro-17-Licence-Key)
 
-(https://github.com/imhegde). Created by:-
+(https://github.com/hegdepavankumar). Created by:-
 
-| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 
 <br>
@@ -120,4 +120,4 @@ Linkedin: [here](https://www.linkedin.com/in/hegdepavankumar) <br>
  
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/imhegde" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
