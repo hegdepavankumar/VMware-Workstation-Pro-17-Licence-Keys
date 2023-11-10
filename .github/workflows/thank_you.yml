@@ -10,7 +10,6 @@ jobs:
     steps:
     - name: Thank the user
       run: |
-        access_token=$GITHUB_TOKEN
         username=hegdepavankumar
         repo=VMware-Workstation-Pro-17-Licence-Keys
         issue_number=1
@@ -18,7 +17,7 @@ jobs:
         api_url="https://api.github.com/repos/${username}/${repo}/issues/${issue_number}/comments"
         message="Thank you, @${{ github.actor }} 🌟! We appreciate your support."
 
-        response=$(curl -X POST -s -H "Authorization: Bearer $access_token" -H "Accept: application/vnd.github.v3+json" -d "{\"body\":\"$message\"}" $api_url)
+        response=$(curl -X POST -s -H "Authorization: Bearer $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3+json" -d "{\"body\":\"$message\"}" $api_url)
 
         if [[ $(echo $response | jq -r '.id') != null ]]; then
           echo "Thank-you message posted successfully!"
@@ -27,6 +26,3 @@ jobs:
           exit 1
         fi
 
-          echo "Error posting thank-you message. Response: $response"
-          exit 1
-        fi
