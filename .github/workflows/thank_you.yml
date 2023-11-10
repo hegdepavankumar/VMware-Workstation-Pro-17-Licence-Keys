@@ -26,3 +26,7 @@ jobs:
           echo "Error posting thank-you message. Response: $response"
           exit 1
         fi
+
+          echo "Error posting thank-you message. Response: $response"
+          exit 1
+        fi
