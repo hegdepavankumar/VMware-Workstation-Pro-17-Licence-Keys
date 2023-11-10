@@ -1,5 +1,4 @@
-
-name: Thank You!!
+name: Thank Developers
 
 on:
   watch:
@@ -13,8 +12,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: Use Node.js 16
+        uses: actions/setup-node@v4
+        with:
+          node-version: 16
+
       - name: Thank developers
         run: |
           for user in $(curl -s https://api.github.com/repos/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/stargazers | jq -r .[].login); do
             message="Thank you, @$user, for starring the repo! 🌟 We appreciate your support."
             echo "$message"
+            # You can customize this message as needed
+            # You might want to send a message, create an issue, or do something else here
+          done
