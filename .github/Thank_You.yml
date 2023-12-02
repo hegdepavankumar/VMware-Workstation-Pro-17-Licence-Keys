@@ -1,0 +1,28 @@
+name: Thank You on Star
+
+on:
+  watch:
+    types: [started]
+
+jobs:
+  send-thank-you:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 14
+
+      - name: Install NPM dependencies
+        run: npm install
+
+      - name: Send Thank-You Message
+        run: |
+          echo "Thank you for starring the VMware-Workstation-Pro-17-Licence-Keys repository! 🌟" > thankYouMessage.txt
+          cat thankYouMessage.txt
+          
+          curl -X POST -H "Content-Type: application/json" -d '{"message": "Thank you for your star!"}' https://your-messaging-service-api.com/send-message
