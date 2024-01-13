@@ -35,6 +35,7 @@ PLEASE,📍 DON'T COPY THIS. IF YOU FORK IT, DON'T EDIT IT.
 
  - If you have any doubts related to this or any other matter, please don't hesitate to let me know. I'm here to help! 😊
  - If you need any other free repo like this please drop your idea on issues..
+   # Join Telegram Group : [click here to join](https://t.me/cyberweavehub) 
 
 <br>
 
@@ -118,6 +119,7 @@ Feel free to contact me if you have any questions or suggestions.
 
 Email: [here](mailto:puhegde01@gmail.com) <br>
 Linkedin: [here](https://www.linkedin.com/in/hegdepavankumar) <br>
+Telegram Group: [here](https://t.me/cyberweavehub)
 
 
 ## Creator [🔝](#VMware-Workstation-Pro-17-Licence-Key)
