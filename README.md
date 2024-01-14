@@ -34,8 +34,8 @@ PLEASE,📍 DON'T COPY THIS. IF YOU FORK IT, DON'T EDIT IT.
 ## Doubts and Questions🙆‍♂️
 
  - If you have any doubts related to this or any other matter, please don't hesitate to let me know. I'm here to help! 😊
- - If you need any other free repo like this please drop your idea on issues..
-   # Join Telegram Group : [click here to join](https://t.me/cyberweavehub) 
+ - If you need any other free repo like this, please drop your idea on this group..
+   # Telegram Group : [👉Click here to Join](https://t.me/cyberweavehub) 
 
 <br>
 
