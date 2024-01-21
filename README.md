@@ -6,10 +6,14 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key.svg?cache=remove)
 
+<br>
+
+
+![telegram-logo-57C0252D71-seeklogo com](https://github.com/hegdepavankumar/UPGRADATION_TEMP/assets/85627085/0d68d9ea-6ac1-4921-8c6a-829c3abe71c8)
+
+# Telegram Group : [click here to join](https://t.me/resourcehub1)
 
 ## Free VMware Workstation Pro 17 full License keys - (Yes✌️ You read it Right!! It's Free✌️😎)
-
-<br>
 
 # Available Now..😎
 ## VMware vSphere 6 and 7 ESXi Licence Keys Free!! : [👉Click Here👈](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys)
@@ -25,11 +29,11 @@ PLEASE,📍 DON'T COPY THIS. IF YOU FORK IT, DON'T EDIT IT.
 - If you have a problem comment and people will try to help you!
 - No virus ⚠🛡
 - No spam just license key 🔐🔑
-- Corporate Professional also using this - Dark Truth😎
 - Feel free to use and share with corporate Friends and Teams as well......
-- Even these keys are works below 17 or any further versions ....🎊✨
+- Even these keys are works below 17 or any further PRO versions ....🎊✨
 - 🌟 Hey there! Mind sprinkling some stars on my repo? It's like giving it a digital high-five! 🚀
 
+<hr>
 
 # If you've found our work helpful, I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us to improve. Thank you!
 
@@ -61,10 +65,35 @@ PLEASE,📍 DON'T COPY THIS. IF YOU FORK IT, DON'T EDIT IT.
 
 <hr>
 
-## Note
+# Important Notice: Personal Practice Use Only
 
-Use only if you are a personal user. I'm NOT responsible for what you do with it. <br>
-Enjoy your VMs!
+The resources provided in this repository, including any software or configurations, are intended for personal practice and educational purposes only. It is not recommended to use them in a production environment or any critical system.
+
+**Do's:**🟢
+- Use these resources for personal practice and learning purposes.
+- Experiment with different configurations in a non-production environment.
+
+**Don'ts:**🔴
+- Use these resources in a production environment or any mission-critical systems.
+- Rely on the provided configurations or software for business operations.
+
+By using the materials in this repository, you agree to use them responsibly and solely for personal practice. The author and contributors are not responsible for any issues or consequences arising from the use of these resources in a production setting.
+
+If you have any questions or concerns regarding the usage of these resources, please reach out to us.
+
+
+ Thank you for using software responsibly and respecting the terms of service.
+
+
+<br>
+
+
+# How to Obtain a License Key
+
+- To use VMware Workstation Pro 17 legally, please consider purchasing a license directly from the official VMware website. 
+- This not only ensures that you have the legal right to use the software but also supports the developers in creating and maintaining this valuable tool.
+
+
 
 
 !!<br>
