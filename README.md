@@ -8,15 +8,11 @@
 
 <br>
 
-
 ![telegram-logo-57C0252D71-seeklogo com](https://github.com/hegdepavankumar/UPGRADATION_TEMP/assets/85627085/0d68d9ea-6ac1-4921-8c6a-829c3abe71c8)
 
-# Telegram Group : [click here to join](https://t.me/resourcehub1)
-
-## Free VMware Workstation Pro 17 full License keys - (Yes✌️ You read it Right!! It's Free✌️😎)
-
-# Available Now..😎
-## VMware vSphere 6 and 7 ESXi Licence Keys Free!! : [👉Click Here👈](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys)
+# Telegram Group : [click here to join](https://t.me/resourcehub1) 😎
+## VMware vSphere 6 and 7 ESXi Licence Keys Free!! : [👉Click Here👈](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys) 
+### Free VMware Workstation Pro 17 full License keys - (Yes✌️ You read it Right!! It's Free✌️😎)
 
 <br>
 
