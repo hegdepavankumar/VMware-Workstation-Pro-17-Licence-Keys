@@ -144,8 +144,7 @@ Steps to Follow: [click here](Installation-Steps.md)
 
 Feel free to contact me if you have any questions or suggestions.
 
-Email: [here](mailto:puhegde01@gmail.com) <br>
-Linkedin: [here](https://www.linkedin.com/in/hegdepavankumar) <br>
+
 Telegram Group: [here](https://t.me/cyberweavehub)
 
 
