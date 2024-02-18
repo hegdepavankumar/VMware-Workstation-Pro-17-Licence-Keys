@@ -61,7 +61,7 @@ PLEASE,📍 DON'T COPY THIS. IF YOU FORK IT, DON'T EDIT IT.
 
 <hr>
 
-# Important Notice: Personal Practice Use Only
+# Important Notice: Only For Personal Practice  
 
 The resources provided in this repository, including any software or configurations, are intended for personal practice and educational purposes only. It is not recommended to use them in a production environment or any critical system.
 
