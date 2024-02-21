@@ -1,4 +1,4 @@
-# VMware-Workstation-Pro-17-Licence-Keys
+# Free VMware Workstation Pro 17 License Keys
 <hr>
 
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
