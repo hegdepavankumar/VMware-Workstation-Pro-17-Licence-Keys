@@ -1,20 +1,15 @@
 # Free VMware Workstation Pro 17 License Keys
-<hr>
 
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key.svg?cache=remove)
 
-<br>
-
 [![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/fd79e514-376d-4d44-9d1a-48d74ae49930)](https://t.me/resourcehub1)
 
 # Telegram Group : [click here to join](https://t.me/resourcehub1) 😎
-## VMware vSphere 6 and 7 ESXi Licence Keys Free!! : [👉Click Here👈](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys) 
 ### Free VMware Workstation Pro 17 full License keys - (Yes✌️ You read it Right!! It's Free✌️😎)
 
-<br>
 
 Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhance your virtualization experience.
 
@@ -29,15 +24,13 @@ PLEASE,📍 DON'T COPY THIS. IF YOU FORK IT, DON'T EDIT IT.
 - Even these keys are works below 17 or any further PRO versions ....🎊✨
 - 🌟 Hey there! Mind sprinkling some stars on my repo? It's like giving it a digital high-five! 🚀
 
-<hr>
-
-# If you've found our work helpful, I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us to improve. Thank you!
 
 ## Doubts and Questions🙆‍♂️
 
  - If you have any doubts related to this or any other matter, please don't hesitate to let me know. I'm here to help! 😊
  - If you need any other free repo like this, please drop your idea on this group..
-   # Telegram Group : [👉Click here to Join](https://t.me/resourcehub1) 
+  
+# If you've found our work helpful, I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us to improve. Thank you!
 
 <br>
 
