@@ -13,8 +13,8 @@
 
 Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhance your virtualization experience.
 
-## Note: 🚨
-- 📍These license keys are exclusively for VMware Workstation Pro and are not compatible with VMware Workstation Player.📍
+# Highlights: 🚨
+## - 📍These license keys are exclusively for VMware Workstation Pro and are not compatible with VMware Workstation Player.📍
 
 Install VMWare Workstation PRO 17 (Read it right. PRO!)
 ---
