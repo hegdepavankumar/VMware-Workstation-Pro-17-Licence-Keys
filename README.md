@@ -8,13 +8,15 @@
 [![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/fd79e514-376d-4d44-9d1a-48d74ae49930)](https://t.me/resourcehub1)
 
 # Telegram Group : [click here to join](https://t.me/resourcehub1) 😎
+
 ### Free VMware Workstation Pro 17 full License keys - (Yes✌️ You read it Right!! It's Free✌️😎)
 
 
 Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhance your virtualization experience.
 
 # Highlights: 🚨
-## - 📍These license keys are exclusively for VMware Workstation Pro and are not compatible with VMware Workstation Player.📍
+###  📍These license keys are exclusively for VMware Workstation Pro and are not compatible with VMware Workstation Player.📍
+###  Also VMware Fusion-13 License Keys are also available...
 
 Install VMWare Workstation PRO 17 (Read it right. PRO!)
 ---
@@ -57,7 +59,20 @@ PLEASE,📍 DON'T COPY THIS. IF YOU FORK IT, DON'T EDIT IT.
 
 <hr>
 
-# Important Notice: Only For Personal Practice  
+# VMware Fusion-13 License Keys
+<br>
+
+
+| Number | Keys | Availability |
+|:------:|------------|:---------:|
+| 1 | `4A4RR-813DK-M81A9-4U35H-06KND` | Active
+| 2 | `NZ4RR-FTK5H-H81C1-Q30QH-1V2LA` | Active
+| 3 | `4C21U-2KK9Q-M8130-4V2QH-CF810` | Active
+| 4 | `MC60H-DWHD5-H80U9-6V85M-8280D` | Active
+| 5 | `JU090-6039P-08409-8J0QH-2YR7F` | Active
+| 6 | `4Y09U-AJK97-089Z0-A3054-83KLA` | Active
+
+# Important Notice: Only For Practice  
 
 The resources provided in this repository, including any software or configurations, are intended for personal practice and educational purposes only. It is not recommended to use them in a production environment or any critical system.
 
