@@ -5,18 +5,28 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key.svg?cache=remove)
 
-[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/fd79e514-376d-4d44-9d1a-48d74ae49930)](https://t.me/resourcehub1)
+<br>
 
-# Telegram Group : [click here to join](https://t.me/resourcehub1) 😎
+[![Join-Now](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/15a7b848-4d9e-49dd-a1a3-8942b1ae8fda)](https://t.me/resourcehub1)
+
+<br>
+
+# SUPPORT ME -- 🚩💲🙏
+
+### 🔑 Enjoying my VMware Workstation Pro 17 License Keys repo? It offers free evaluation or permanent local licenses for VMware products, saving you money for practice purposes. I've invested significant time in research and testing to ensure vulnerability-free keys. If you find it valuable, consider supporting my efforts with a coffee ☕️ or your best wishes. Your appreciation means a lot! 🙏🙏🙏
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee | Support me&emoji=☕&slug=hegdepavankumar&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+
+<br>
 
 ### Free VMware Workstation Pro 17 full License keys - (Yes✌️ You read it Right!! It's Free✌️😎)
-
 
 Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhance your virtualization experience.
 
 # Highlights: 🚨
-###  📍These license keys are exclusively for VMware Workstation Pro and are not compatible with VMware Workstation Player.📍
-###  Also VMware Fusion-13 License Keys are also available...
+-  📍These license keys are exclusively for VMware Workstation Pro and are not compatible with VMware Workstation Player.📍
+-  Also VMware Fusion-13 License Keys are also available...
 
 Install VMWare Workstation PRO 17 (Read it right. PRO!)
 ---
