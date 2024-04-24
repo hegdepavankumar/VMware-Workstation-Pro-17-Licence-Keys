@@ -18,8 +18,7 @@ Now we are available on Discord: [![icons8-discord-94](https://github.com/hegdep
 
 ### 🔑 Enjoying my "VMware Workstation Pro 17 License Keys" repo? It offers free evaluation or permanent local licenses for VMware products, saving you money for practice purposes. I've invested significant time in research and testing to ensure vulnerability-free keys. If you find it valuable, consider supporting my efforts with a coffee ☕️ or your best wishes. Your appreciation means a lot! 🙏🙏🙏
 
-<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee | Support me&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
-
+<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 <br>
 
