@@ -33,11 +33,10 @@ Free VMware Workstation Pro 17 full license keys. We've meticulously organized t
 Install VMWare Workstation PRO 17 (Read it right. PRO!)
 ---
 
-PLEASE,📍 DON'T COPY THIS. IF YOU FORK IT, DON'T EDIT IT.
+
 - If you have a problem comment and people will try to help you!
 - No virus ⚠🛡
 - No spam just license key 🔐🔑
-- Feel free to use and share with corporate Friends and Teams as well......
 - Even these keys are works below 17 or any further PRO versions ....🎊✨
 - 🌟 Hey there! Mind sprinkling some stars on my repo? It's like giving it a digital high-five! 🚀
 
