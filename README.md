@@ -9,8 +9,6 @@
 
 [![Join-Now](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/15a7b848-4d9e-49dd-a1a3-8942b1ae8fda)](https://t.me/resourcehub1)
 
-Now we are available on Discord: [![icons8-discord-94](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/0a1d7a6b-36eb-41c2-b99f-a391d1e6c422)](https://discord.gg/H2w9CVVf)
-
 
 <br>
 
