@@ -167,7 +167,7 @@ Steps to Follow: [click here](Installation-Steps.md)
 Feel free to contact me if you have any questions or suggestions.
 
 
-Telegram Group: [here](https://t.me/cyberweavehub)
+Telegram Group: [here](https://t.me/resourcehub1)
 
 
 ## Creator [🔝](#VMware-Workstation-Pro-17-Licence-Key)
